@@ -1,7 +1,4 @@
-Assignment 7 - Part 1: Prediction
-Team: Sudeep Vaka, Kaushik Veluru, Aditya Ramesha
-Date: 03/19/2016
-
+Predicted flight delays by implementing a naive bayes classifier using the US Dept of Transportation dataset
 
 File Structure:
 
